@@ -9,5 +9,5 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: "https://hungqt.github.io",
+  site: "https:/hungthieu.dev",
 });
