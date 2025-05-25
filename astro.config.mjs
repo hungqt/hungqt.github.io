@@ -9,5 +9,5 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: "https://hungthieu.dev",
+  site: "www.hungthieu.dev",
 });
